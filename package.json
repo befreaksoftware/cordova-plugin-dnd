@@ -1,0 +1,25 @@
+{
+  "name": "io.electrosoft.dnd",
+  "version": "0.0.1",
+  "description": "Cordova plugin Do not disturb (DnD)",
+  "cordova": {
+    "id": "io.electrosoft.dnd",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinchuka/cordova-plugin-dnd.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "martin chuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinchuka/cordova-plugin-dnd/issues"
+  },
+  "homepage": "https://github.com/martinchuka/cordova-plugin-dnd#readme"
+}
