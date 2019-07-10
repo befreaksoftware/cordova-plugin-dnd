@@ -10,8 +10,8 @@ ionic cordova plugin add https://github.com/martinchuka/cordova-plugin-dnd
 ### Available Platform **Android**
 
 Error response
-- 0 API level is below 23 - Must open access policy to select permission
-- 1 Permission required
+- 0 API level is below 23
+- 1 Permission required - Must open access policy to select permission
 
 Success response
 - 2 Off
