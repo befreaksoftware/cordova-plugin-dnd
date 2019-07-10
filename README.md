@@ -3,7 +3,7 @@ Cordova plugin do not disturb
 
 Install on ionic 
 
-~~~~
+~~~
 ionic cordova plugin add https://github.com/martinchuka/cordova-plugin-dnd
 ~~~
 
